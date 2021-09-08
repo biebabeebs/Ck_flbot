@@ -20,7 +20,7 @@ async def start(bot, update):
     
     if file_uid:
         try:
-            member = await bot.get_chat_member("CK_Anime", update.chat.id)
+            member = await bot.get_chat_member("dobby_free", update.chat.id)
             if member.status == "kicked":
                 await bot.send_message(
                        chat_id=update.chat.id,
@@ -35,7 +35,7 @@ async def start(bot, update):
             await bot.send_message(
                     chat_id=update.chat.id,
                     text=Translation.FORCE_SUB_TEXT,
-                    reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="Join Channel",url="https://t.me/CK_Anime")],
+                    reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="Join Channel",url="https://t.me/dobby_free")],
                                                        [InlineKeyboardButton(text="Refresh", url=f"https://t.me/{me.username}?start={file_uid}")]]),
                     reply_to_message_id=update.message_id
                     )
