@@ -9,9 +9,9 @@ class Translation(object):
 
 Our Anime Channel, @CK_Anime</b>"""    
     
-    FORCE_SUB_TEXT = """♦️ <u><b>READ THIS INSTRUCTION</b></u> ♦️
+    FORCE_SUB_TEXT = """(U+1F34E) <u><b>READ THIS INSTRUCTION</b></u> (U+1F34E)
 
-✪ ഫയലുകൾ ലഭിക്കുന്നതിനായി  നിങ്ങൾ ഞങ്ങളുടെ ചാനലിൽ join ചെയ്യണം
+(U+1F34E) ഫയലുകൾ ലഭിക്കുന്നതിനായി  നിങ്ങൾ ഞങ്ങളുടെ ചാനലിൽ join ചെയ്യണം
 "ശേഷം refresh button അമർത്തുക"
 
-✪ <b>You Need To Join Our Channel and Press Refresh Button to get the File.</b>"""
+(U+1F34E) <b>You Need To Join Our Channel and Press Refresh Button to get the File.</b>"""
