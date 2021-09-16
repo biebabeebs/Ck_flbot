@@ -4,10 +4,9 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Sorry, This Bot Can Only Be Used In
-@cinema_kotaka..!    
+    START_TEXT = """<b>@Dustinreq..!    
     
-    FORCE_SUB_TEXT = """♦️ <u><b>READ THIS INSTRUCTION</b></u> ♦️
+    FORCE_SUB_TEXT = """🍎 <u><b>READ THIS INSTRUCTION</b></u> 🍎
 
 🍎 ഫയലുകൾ ലഭിക്കുന്നതിനായി  നിങ്ങൾ ഞങ്ങളുടെ ചാനലിൽ join ചെയ്യണം
 "ശേഷം refresh button അമർത്തുക"
