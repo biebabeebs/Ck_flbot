@@ -4,14 +4,11 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Sorry, This Bot Can Only Be Used In
-@cinema_kotaka..!
-
-Our Anime Channel, @CK_Anime</b>"""    
+    START_TEXT = """<b>@Dustinreq..!    
     
-    FORCE_SUB_TEXT = """♦️ <u><b>READ THIS INSTRUCTION</b></u> ♦️
+    FORCE_SUB_TEXT = """/n🍎 <u><b>READ THIS INSTRUCTION</b></u> /n🍎
 
-✪ ഫയലുകൾ ലഭിക്കുന്നതിനായി  നിങ്ങൾ ഞങ്ങളുടെ ചാനലിൽ join ചെയ്യണം
+/n🍎 ഫയലുകൾ ലഭിക്കുന്നതിനായി  നിങ്ങൾ ഞങ്ങളുടെ ചാനലിൽ join ചെയ്യണം
 "ശേഷം refresh button അമർത്തുക"
 
-✪ <b>You Need To Join Our Channel and Press Refresh Button to get the File.</b>"""
+/n🍎 <b>You Need To Join Our Channel and Press Refresh Button to get the File.</b>"""
