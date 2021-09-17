@@ -4,5 +4,4 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Sorry, This Bot Can Only Be Used In
-@cinema_kotaka..!</b>"""
+    START_TEXT = """<b>@Dustinreq..!</b>"""
