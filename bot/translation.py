@@ -4,4 +4,4 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>@Dustinreq..!</b>"""
+    START_TEXT = """<b>Our Blog, https://bit.ly/3kpBLvs..!</b>"""
